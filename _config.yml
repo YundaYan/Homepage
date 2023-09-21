@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yunda Yan / Personal page"
+title                    : "Yunda Yan / Personal Page"
 title_separator          : "-"
 name                     : &name "Yunda Yan"
 description              : &description "Lecturer in Robotics and AI"
@@ -83,8 +83,8 @@ author:
   name             : "Yunda Yan"
   avatar           : "profile.png"
   bio              : "Lecturer in Robotics and AI"
-  location         : "Location"
-  employer         :  University Colleague London
+  location         : #"Location"
+  employer         :  University College London
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl=en"
   email            :
