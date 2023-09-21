@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
@@ -84,8 +84,8 @@ author:
   avatar           : "profile.png"
   bio              : "Lecturer in Robotics and AI"
   location         : "Location"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         :  University Colleague London
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=s9IOtoMAAAAJ&hl=en"
   email            :
   researchgate     : "https://www.researchgate.net/profile/Yunda-Yan"
